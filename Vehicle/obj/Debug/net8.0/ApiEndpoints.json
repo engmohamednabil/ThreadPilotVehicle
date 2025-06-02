@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Vehicle.Controllers.VehicleController",
+    "Method": "GetVehicleByRegNum",
+    "RelativePath": "Vehicle/{regnum}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "regnum",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Vehicle.Core.Models.VehicleResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

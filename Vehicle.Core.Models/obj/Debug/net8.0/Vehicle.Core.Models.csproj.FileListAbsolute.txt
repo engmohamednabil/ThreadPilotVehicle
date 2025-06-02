@@ -1,0 +1,11 @@
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Models\bin\Debug\net8.0\Vehicle.Core.Models.deps.json
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Models\bin\Debug\net8.0\Vehicle.Core.Models.dll
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Models\bin\Debug\net8.0\Vehicle.Core.Models.pdb
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Models\obj\Debug\net8.0\Vehicle.Core.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Models\obj\Debug\net8.0\Vehicle.Core.Models.AssemblyInfoInputs.cache
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Models\obj\Debug\net8.0\Vehicle.Core.Models.AssemblyInfo.cs
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Models\obj\Debug\net8.0\Vehicle.Core.Models.csproj.CoreCompileInputs.cache
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Models\obj\Debug\net8.0\Vehicle.Core.Models.dll
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Models\obj\Debug\net8.0\refint\Vehicle.Core.Models.dll
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Models\obj\Debug\net8.0\Vehicle.Core.Models.pdb
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Models\obj\Debug\net8.0\ref\Vehicle.Core.Models.dll

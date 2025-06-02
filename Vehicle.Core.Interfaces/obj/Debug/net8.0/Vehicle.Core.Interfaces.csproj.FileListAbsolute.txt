@@ -1,0 +1,15 @@
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Interfaces\bin\Debug\net8.0\Vehicle.Core.Interfaces.deps.json
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Interfaces\bin\Debug\net8.0\Vehicle.Core.Interfaces.dll
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Interfaces\bin\Debug\net8.0\Vehicle.Core.Interfaces.pdb
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Interfaces\bin\Debug\net8.0\Vehicle.Core.Models.dll
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Interfaces\bin\Debug\net8.0\Vehicle.Core.Models.pdb
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Interfaces\obj\Debug\net8.0\Vehicle.Core.Interfaces.csproj.AssemblyReference.cache
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Interfaces\obj\Debug\net8.0\Vehicle.Core.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Interfaces\obj\Debug\net8.0\Vehicle.Core.Interfaces.AssemblyInfoInputs.cache
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Interfaces\obj\Debug\net8.0\Vehicle.Core.Interfaces.AssemblyInfo.cs
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Interfaces\obj\Debug\net8.0\Vehicle.Core.Interfaces.csproj.CoreCompileInputs.cache
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Interfaces\obj\Debug\net8.0\Vehicle..627246F2.Up2Date
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Interfaces\obj\Debug\net8.0\Vehicle.Core.Interfaces.dll
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Interfaces\obj\Debug\net8.0\refint\Vehicle.Core.Interfaces.dll
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Interfaces\obj\Debug\net8.0\Vehicle.Core.Interfaces.pdb
+C:\projects\ThreadPilotVehicle\Vehicle.Core.Interfaces\obj\Debug\net8.0\ref\Vehicle.Core.Interfaces.dll
